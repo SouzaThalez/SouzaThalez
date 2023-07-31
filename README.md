@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My names is Thales and i work in the health care industry as a clinical analist and also as a programer</p>
+<p align="left">My name is Thales and i work in the health care industry as a clinical Analist and also as a programer</p>
 
 ###
 
