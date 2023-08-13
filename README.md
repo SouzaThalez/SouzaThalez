@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Programing languages i use</h2>
+<h2 align="left">Programing languages i work</h2>
 
 ###
 
