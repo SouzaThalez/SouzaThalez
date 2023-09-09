@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate reader and writer<br>📚 I'm currently working on my own system for the company i work to<br>🎯 Goals: Enjoy everything life has to offer me <br>🎲 Fun fact: Cookies are the best!</p>
+<p align="left">✨ Passionate reader and writer<br>📚 I'm currently working on my own system for the company i work to<br>🎯 Goals: Care about myself more, than anything else in this world <br>🎲 Fun fact: Cookies are the best!</p>
 
 ###
 
