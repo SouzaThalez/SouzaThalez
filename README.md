@@ -12,7 +12,7 @@ I'm currently in Brazil working  in the health care industry as a clinical Anali
 
 ###
 
-<p align="left">✨ Passionate reader and writer<br>📚 Side hustle projects, you can have a look at some of them here!<br>🎯 Current: Current working on my Web application v2.0<br></p>
+<p align="left">✨ Passionate reader and writer<br>📚 Side hustle projects, you can have a look at some of them here!<br>🎯 Current working on my Web application v2.0<br></p>
 
 ###
 <h2>Fun fact </h2>
