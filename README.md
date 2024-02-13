@@ -4,7 +4,7 @@
 
 I'm currently in Brazil working  in the health care industry as a clinical Analist and i do programing as a side hustle.
 * Follow my journey as a self-tough coder on [Istagram](https://www.instagram.com/souzadiaries/)
-* Join my [Newsletter](souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
+* Join my [Newsletter](https://www.souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
 
 ###
 
@@ -12,11 +12,15 @@ I'm currently in Brazil working  in the health care industry as a clinical Anali
 
 ###
 
-<p align="left">✨ Passionate reader and writer<br>📚 I'm currently working on my own system for the company i work to<br>🎯 Goals: Care about myself more, than anything else in this world <br>🎲 Fun fact: Cookies are the best!</p>
+<p align="left">✨ Passionate reader and writer<br>📚 Side hustle projects, you can have a look at some of them here!<br>🎯 Current: Current working on my Web application v2.0<br></p>
 
 ###
+<h2>Fun fact </h2>
+* I love driving my motorcycle
+* I love reading and writing (especially my Newsletter)
+* I hate loud noises, screaming, or yelling
 
-<h2 align="left">Programing languages i work</h2>
+<h2 align="left">Programing languages</h2>
 
 ###
 
