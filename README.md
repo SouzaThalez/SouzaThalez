@@ -1,13 +1,15 @@
-<h1 align="left">Hi there 👋</h1>
+<h2 align="left">Hi there, I'm Thales👋</h2>
 
 ###
 
-<p align="left">My name is Thales and i work in the health care industry as a clinical Analist and also as a programer</p>
+<p align="left">I'm currently in Brazil working  in the health care industry as a clinical Analist and i do programing as a side hustle</p>
+* Follow my journey as a self-tough coder on [Instagram](https://www.instagram.com/souzadiaries/)
+* Join my [Newsletter](souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
 
 ###
 
-<h2 align="left">About me</h2>
-
+<h2 align="left">Features</h2>
+<mark>mdeom</mark>
 ###
 
 <p align="left">✨ Passionate reader and writer<br>📚 I'm currently working on my own system for the company i work to<br>🎯 Goals: Care about myself more, than anything else in this world <br>🎲 Fun fact: Cookies are the best!</p>
