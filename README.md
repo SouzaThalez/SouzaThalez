@@ -3,8 +3,8 @@
 ###
 
 <p align="left">I'm currently in Brazil working  in the health care industry as a clinical Analist and i do programing as a side hustle</p>
-* Follow my journey as a self-tough coder on [Instagram](https://www.instagram.com/souzadiaries/)
-* Join my [Newsletter](souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
+*Follow my journey as a self-tough coder on [Instagram](https://www.instagram.com/souzadiaries/)
+*Join my [Newsletter](souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
 
 ###
 
