@@ -3,13 +3,13 @@
 ###
 
 I'm currently in Brazil working  in the health care industry as a clinical Analist and i do programing as a side hustle.
-*Follow my journey as a self-tough coder on [Download node.js](https://www.instagram.com/souzadiaries/)
-*Join my [Newsletter](souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
+* Follow my journey as a self-tough coder on [Istagram](https://www.instagram.com/souzadiaries/)
+* Join my [Newsletter](souzathalez.substack.com) for tips on interesting book reviews, building habits and coding experience as a beginner
 
 ###
 
 <h2 align="left">Features</h2>
-<mark>mdeom</mark>
+
 ###
 
 <p align="left">✨ Passionate reader and writer<br>📚 I'm currently working on my own system for the company i work to<br>🎯 Goals: Care about myself more, than anything else in this world <br>🎲 Fun fact: Cookies are the best!</p>
